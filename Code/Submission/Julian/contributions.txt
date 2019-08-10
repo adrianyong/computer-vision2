@@ -1,0 +1,7 @@
+Julian Stefinovic - 100136806
+
+Adrian and I contributed to the group coursework equally. I was in charge of creating
+KNN, spatial pyramids (grayscale/RBG) and SIFT (RGB), automation of the program and 
+saving data to CSV files. Adrian coded the SVM, Fisher algorithm, SIFT and we both
+collaborated on the presentation in the final stages.
+

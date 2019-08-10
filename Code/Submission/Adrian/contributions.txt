@@ -1,0 +1,6 @@
+Adrian Yong - 100122248
+
+Julian and I contributed to the group coursework equally. I did code for the SVM, Fisher
+algorithm and SIFT. Julian worked on the automation, the KNN, spatial pyramids and the RGB SIFT. 
+We both the collaborated together on the presentation.
+
